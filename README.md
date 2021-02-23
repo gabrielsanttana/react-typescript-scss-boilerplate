@@ -4,6 +4,9 @@
 
 <p align="center">🧬 A boilerplate for React projects with TypeScript and SCSS set up</p>
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gabrielsanttana/react-typescript-scss-boilerplate/blob/master/LICENSE) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/gabrielsanttana/react-typescript-scss-boilerplate/blob/main/CONTRIBUTING.md)
+
 ## 🛠️ Technologies
 
 <ul>
